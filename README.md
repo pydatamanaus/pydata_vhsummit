@@ -8,6 +8,7 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
   * [Compras Governamentais](#compras-governamentais)
   * [Nuvem Cívica](#nuvem-cívica)
   * [Portal da Transparência da Prefeitura de Manaus](#portal-da-transparência-da-prefeitura-de-manaus) 
+  * [Portal da Transparência do Governo do Amazonas](#portal-da-transparência-do-governo-do-amazonas) 
   * [Receitas e Despesas Públicas – Portal da Transparência](#receitas-e-despesas-públicas-portal-da-transparência) 
   * [Sanções – Portal da Transparência](#sanções-portal-da-transparência) 
   * [Dirigentes de Empresas – Portal da Transparência](#dirigentes-de-empresas-portal-da-transparência) 
@@ -67,6 +68,17 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
 *Formato* | download de arquivos pdf, doc, xls e odt |
 *Url*     | https://transparencia.manaus.am.gov.br/transparencia/v2/#/home |
 *Dicas*   | Observe que no canto superior direito da tela encontra-se um ícone com a opção “download”. Clicando-se nesse ícone são apresentadas as opções de importação nos formatos. |
+*Projetos usando* |  |
+
+---
+
+### Portal da Transparência do Governo do Amazonas
+?    | ! |
+ --- | --|
+*O que é* | Trata da divulgação, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira das entidades do Governo do Estado do Amazonas. Por meio da pesquisa, é possível, detalhar todos os documentos emitidos pelas unidades gestoras do Poder Executivo Estadual no decorrer da execução das suas despesas, inclusive, pela fase em que a despesa está: empenho, liquidação e pagamento.|
+*Formato* | download de arquivos pdf, doc, csv, xls e odt |
+*Url*     | http://www.transparencia.am.gov.br |
+*Dicas*   | Nem todos os arquivos estão no formato csv. |
 *Projetos usando* |  |
 
 ---
