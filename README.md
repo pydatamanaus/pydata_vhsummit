@@ -19,6 +19,7 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
   * [Relatórios da CGU](#relatórios-da-cgu)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
   * [Projeto Brasil.IO](#projeto-brasilio)
+  * [Projeto Colaboradadps](#projeto-colaboradados)
   * [Portal ConectaGov](#portal-conectagov)
   * [Contribuindo](#contribuindo)
   * [DATASUS](#datasus)
@@ -198,6 +199,18 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
 *Formato* | API REST |
 *Url*     | https://brasil.io/api/datasets |
 *Dicas*   | Disponibiliza aplicações especiais que cruzam dados de diversos datasets e facilitam o trabalho investigativo. Mais informações no [github do projeto](https://github.com/turicas/brasil.io) |
+*Projetos usando* |  |
+
+---
+
+
+### Projeto Colaboradados
+?    | ! |
+ --- | --|
+*O que é* | O banco colaborativo de bases de dados |
+*Url*     | https://colaboradados.github.io |
+*Dicas*   | Iniciativa colaborativa que busca reunir, demonstrar, investigar e monitorar o acesso à informação no Brasil.
+. Mais informações no [github do projeto](https://github.com/colaboradados) |
 *Projetos usando* |  |
 
 ---
