@@ -8,6 +8,7 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
   * [Compras Governamentais](#compras-governamentais)
   * [Nuvem Cívica](#nuvem-cívica)
   * [Portal da Transparência da Prefeitura de Manaus](#portal-da-transparência-da-prefeitura-de-manaus) 
+  * [Portal da Transparência do Governo do Amazonas](#portal-da-transparência-do-governo-do-amazonas) 
   * [Receitas e Despesas Públicas – Portal da Transparência](#receitas-e-despesas-públicas-portal-da-transparência) 
   * [Sanções – Portal da Transparência](#sanções-portal-da-transparência) 
   * [Dirigentes de Empresas – Portal da Transparência](#dirigentes-de-empresas-portal-da-transparência) 
@@ -19,6 +20,7 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
   * [Relatórios da CGU](#relatórios-da-cgu)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
   * [Projeto Brasil.IO](#projeto-brasilio)
+  * [Projeto Colaboradados](#projeto-colaboradados)
   * [Portal ConectaGov](#portal-conectagov)
   * [Contribuindo](#contribuindo)
   * [DATASUS](#datasus)
@@ -66,6 +68,17 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
 *Formato* | download de arquivos pdf, doc, xls e odt |
 *Url*     | https://transparencia.manaus.am.gov.br/transparencia/v2/#/home |
 *Dicas*   | Observe que no canto superior direito da tela encontra-se um ícone com a opção “download”. Clicando-se nesse ícone são apresentadas as opções de importação nos formatos. |
+*Projetos usando* |  |
+
+---
+
+### Portal da Transparência do Governo do Amazonas
+?    | ! |
+ --- | --|
+*O que é* | Trata da divulgação, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira das entidades do Governo do Estado do Amazonas. Por meio da pesquisa, é possível, detalhar todos os documentos emitidos pelas unidades gestoras do Poder Executivo Estadual no decorrer da execução das suas despesas, inclusive, pela fase em que a despesa está: empenho, liquidação e pagamento.|
+*Formato* | download de arquivos pdf, doc, csv, xls e odt |
+*Url*     | http://www.transparencia.am.gov.br |
+*Dicas*   | Nem todos os arquivos estão no formato csv. |
 *Projetos usando* |  |
 
 ---
@@ -198,6 +211,17 @@ Repositório dedicado ao conjunto de datasets para auxiliar os participantes da 
 *Formato* | API REST |
 *Url*     | https://brasil.io/api/datasets |
 *Dicas*   | Disponibiliza aplicações especiais que cruzam dados de diversos datasets e facilitam o trabalho investigativo. Mais informações no [github do projeto](https://github.com/turicas/brasil.io) |
+*Projetos usando* |  |
+
+---
+
+
+### Projeto Colaboradados
+?    | ! |
+ --- | --|
+*O que é* | O banco colaborativo de bases de dados |
+*Url*     | https://colaboradados.github.io |
+*Dicas*   | Iniciativa colaborativa que busca reunir, demonstrar, investigar e monitorar o acesso à informação no Brasil. Mais informações no [github do projeto](https://github.com/colaboradados) |
 *Projetos usando* |  |
 
 ---
